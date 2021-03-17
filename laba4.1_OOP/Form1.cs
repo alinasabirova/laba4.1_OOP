@@ -17,5 +17,11 @@ namespace laba4._1_OOP
             InitializeComponent();
         }
 
+        private void pictureBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+
+        }
+
     }
+
 }
